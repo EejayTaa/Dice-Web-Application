@@ -1,0 +1,76 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  background-color: #ffffff;
+  border-radius: 2%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.points{
+  position: absolute;
+  font-family: 'Fredoka One';
+}
+.p1{
+  left: 350px;
+}
+.p2{
+  right: 350px;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 10px 25px 10px 25px;
+
+}
+.img1, .img2{
+  width: 230px;
+  height: 190px;
+  display: block;
+  padding: 5px;
+
+}
+button{
+  border-style: none;
+  background-color:#272343 ;
+}
+.playerBtn{
+  text-align: center;
+  padding: 10px 30px;
+  font-size: 18px;
+  font-weight: bold;
+  width: 130px;
+  border-radius: 335px;
+  margin: 15px 0 60px 0;
+  border-style: none;
+  font-family: 'Fredoka One';
+  color: #ffff;
+}
+.playerBtn:hover{
+  background-color: #bae8e8;
+  color: #000;
+}
+body {
+  background-color: #bae8e8;
+}
+
+h1 {
+  margin: 40px 40px 0 40px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #bae8e8;
+  
+}
+
+p {
+  font-size: 2rem;
+  color: #272343;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+img {
+  width: 80%;
+}
+
+
